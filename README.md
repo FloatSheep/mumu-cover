@@ -50,6 +50,6 @@ Last, Change their permissions to read only
 
 3. 切换到安全选项卡，选择 `Administrators`
 
-4. 点击编辑，在修改和写入后面打上拒绝，保存（你自己的用户也是这样，重复 3、4 步就行）
+4. 点击编辑，在写入后面打上拒绝，保存（你自己的用户也是这样，重复 3、4 步就行）
 
 [Chinese]: #中文版
