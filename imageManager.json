@@ -1,0 +1,19 @@
+{
+  "info": [
+    {
+      "appPackage": "",
+      "campaignId": "F01S25",
+      "clickOffsetX": 7,
+      "clickOffsetY": 57,
+      "clickableAreaHeight": 13,
+      "clickableAreaWidth": 24,
+      "display": true,
+      "hoverImageUrl": "https://gcore.jsdelivr.net/gh/FloatSheep/mumu-cover@main/F01S25/Hover.jpeg",
+      "linkType": "internal_browser",
+      "linkUrl": "",
+      "normalImageUrl": "https://gcore.jsdelivr.net/gh/FloatSheep/mumu-cover@main/F01S25/Normal.jpeg",
+      "pressedImageUrl": "https://gcore.jsdelivr.net/gh/FloatSheep/mumu-cover@main/F01S25/Pressed.jpeg",
+      "timeStamp": 1706161065
+    }
+  ]
+}
