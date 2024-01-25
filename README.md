@@ -52,4 +52,4 @@ Last, Change their permissions to read only
 
 4. 点击编辑，在修改和写入后面打上拒绝，保存（你自己的用户也是这样，重复 3、4 步就行）
 
-[Chinese]: ##中文版
+[Chinese]: #中文版
