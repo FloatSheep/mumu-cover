@@ -10,7 +10,7 @@ English | [简体中文][Chinese]
 
 2. Copy all files to `%APPDATA%\Netease\MuMuPlayer-12.0\data\startupImage`
 
-3. Change permissions(Read and Write) to Read only
+3. Change the permissions(Read and Write) of other folders to refused
 
 4. Enjoy it!
 
@@ -26,7 +26,7 @@ Fourth, You should join the `Security` Tab
 
 Fifth, Edit `Administrators` and `Users(Your name)`
 
-Last, Change other folders of the permissions to read only
+Last, Change their permissions to refused
 
 # 中文版
 
@@ -38,7 +38,7 @@ Last, Change other folders of the permissions to read only
 
 2. 复制所有的文件到 `%APPDATA%\Netease\MuMuPlayer-12.0\data\startupImage` （如果版本不同可能需要变换一下位置）
 
-3. 改变其他文件夹的读写权限为只读权限
+3. 改变其他文件夹的读写权限为拒绝
 
 4. 可以玩游戏了
 
@@ -50,6 +50,6 @@ Last, Change other folders of the permissions to read only
 
 3. 切换到安全选项卡，选择 `Administrators`
 
-4. 点击编辑，在写入后面打上拒绝，保存（你自己的用户也是这样，重复 3、4 步就行）
+4. 点击编辑，在读写后面打上拒绝，保存（你自己的用户也是这样，重复 3、4 步就行）
 
 [Chinese]: #中文版
