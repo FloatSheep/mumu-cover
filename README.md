@@ -8,7 +8,7 @@ English | [简体中文][Chinese]
 
 1. Clone this project
 
-2. Copy all files to `%APPDATA\Netease\MuMuPlayer-12.0\data\startupImage`
+2. Copy all files to `%APPDATA%\Netease\MuMuPlayer-12.0\data\startupImage`
 
 3. Change permissions(Read and Write) to Read only
 
@@ -16,7 +16,7 @@ English | [简体中文][Chinese]
 
 ## How to Change permissions?
 
-First, You should visit `%APPDATA\Netease\MuMuPlayer-12.0\data\`
+First, You should visit `%APPDATA%\Netease\MuMuPlayer-12.0\data\`
 
 Second, You should Choose `satrtupImage` folder
 
@@ -26,7 +26,7 @@ Fourth, You should join the `Security` Tab
 
 Fifth, Edit `Administrators` and `Users(Your name)`
 
-Last, Change their permissions to read only
+Last, Change other folders of the permissions to read only
 
 # 中文版
 
@@ -36,9 +36,9 @@ Last, Change their permissions to read only
 
 1. 克隆（git clone）或者直接下载仓库的 zip
 
-2. 复制所有的文件到 `%APPDATA\Netease\MuMuPlayer-12.0\data\startupImage` （如果版本不同可能需要变换一下位置）
+2. 复制所有的文件到 `%APPDATA%\Netease\MuMuPlayer-12.0\data\startupImage` （如果版本不同可能需要变换一下位置）
 
-3. 改变读写权限为只读权限
+3. 改变其他文件夹的读写权限为只读权限
 
 4. 可以玩游戏了
 
